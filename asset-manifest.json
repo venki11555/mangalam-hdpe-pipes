@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mangalam-hdpe-pipes/static/css/main.b184bdf7.css",
+    "main.js": "/mangalam-hdpe-pipes/static/js/main.ce359588.js",
+    "index.html": "/mangalam-hdpe-pipes/index.html",
+    "main.b184bdf7.css.map": "/mangalam-hdpe-pipes/static/css/main.b184bdf7.css.map",
+    "main.ce359588.js.map": "/mangalam-hdpe-pipes/static/js/main.ce359588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b184bdf7.css",
+    "static/js/main.ce359588.js"
+  ]
+}
